@@ -350,6 +350,35 @@
           }
         }
       }
+    },
+    "cask": {
+      "alfred": {
+        "version": "4.0.8_1135"
+      },
+      "brave-browser": {
+        "version": "79.1.2.43,102.43"
+      },
+      "font-hackgen": {
+        "version": "1.4.0"
+      },
+      "hyper": {
+        "version": "3.0.2"
+      },
+      "karabiner-elements": {
+        "version": "12.9.0"
+      },
+      "slack": {
+        "version": "4.2.0"
+      },
+      "visual-studio-code": {
+        "version": "1.41.1"
+      },
+      "xquartz": {
+        "version": "2.7.11"
+      },
+      "zoomus": {
+        "version": "4.6.17383.0119"
+      }
     }
   },
   "system": {
