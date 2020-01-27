@@ -465,6 +465,12 @@
       },
       "spotify": {
         "version": "latest"
+      },
+      "google-backup-and-sync": {
+        "version": "latest"
+      },
+      "mactex-no-gui": {
+        "version": "2019.0508"
       }
     },
     "mas": {
