@@ -41,3 +41,10 @@ cask "spotify"
 cask "visual-studio-code"
 cask "xquartz"
 cask "zoomus"
+
+mas "Keynote", id: 409183694
+mas "LINE", id: 539883307
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "QuickShade", id: 931571202
+mas "Trello", id: 1278508951

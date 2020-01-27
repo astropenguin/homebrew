@@ -369,8 +369,8 @@
               "sha256": "b3d3d2d4fedf8c7bb10cf94dee5f8a0d77aa8ce768d8f8e2e0d63b99faf395d2"
             }
           }
-      }
-    },
+        }
+      },
       "mas": {
         "version": "1.6.3",
         "bottle": {
@@ -467,6 +467,30 @@
         "version": "latest"
       }
     },
+    "mas": {
+      "Keynote": {
+        "id": "409183694",
+        "version": "9.2.1"
+      },
+      "LINE": {
+        "id": "539883307",
+        "version": "5.21.3"
+      },
+      "Numbers": {
+        "id": "409203825",
+        "version": "6.2.1"
+      },
+      "Pages": {
+        "id": "409201541",
+        "version": "8.2.1"
+      },
+      "QuickShade": {
+        "id": "931571202",
+        "version": "1.2.2"
+      },
+      "Trello": {
+        "id": "1278508951",
+        "version": "2.11.3"
       }
     }
   },
