@@ -3,6 +3,7 @@ tap "homebrew/cask-fonts"
 tap "thoughtbot/formulae"
 tap "astropenguin/formulae"
 
+brew "am"
 brew "coreutils"
 brew "direnv"
 brew "fish"

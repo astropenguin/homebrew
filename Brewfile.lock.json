@@ -2,7 +2,7 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "457010c25e1b4aa173d16a1e2d572779e977781d"
+        "revision": "cefddbbf156560324a19b1fe87c0c8ccf0d4105e"
       },
       "homebrew/cask-fonts": {
         "revision": "783ef17621b10966ce78c8387faa38babca5d280"
@@ -11,7 +11,7 @@
         "revision": "edfc6ea49e3e394f5c1cafc59b48f480b1b9440d"
       },
       "astropenguin/formulae": {
-        "revision": "5108c32e32184319e00c90d9c2ac8885cbe94f16"
+        "revision": "18f2b7421808fdd48acaa74d10f0650f90341e1c"
       }
     },
     "brew": {
@@ -412,6 +412,10 @@
             }
           }
         }
+      },
+      "am": {
+        "version": "11.0",
+        "bottle": false
       }
     },
     "cask": {
